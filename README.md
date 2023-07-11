@@ -3,40 +3,20 @@
 </h1>
 
 
-# What is React Native?
+# Expo vs React Native
 <ul>
-  <li>React Native is an open-source framework for building native Android and iOS application using React.</li>
-<li>Javascript to access platform-specific APIs (such as camera and push notifications).</li>
-<li>React components to define the appearance and behaviour of your interface.</li>
+  <li>React Native is an open-source framework maintained by Meta(Facebook), designed for building cross-platform apps.</li>
+<li>Expo is an open-source framework maintained by Expo itself, designed for building cross-platform apps.</li>
+<li>Unlike plain React Native, which can be challenging and time-consuming to set up, Expo provides a streamlined experience.</li>
   <li>
-  React itself is a library designed for building interfaces.</li>
-  <li>react-dom for web apps and react-native for native mobile app.</li>
+  Expo has a suite of tools and services built around React Native, which greatly simplifies the development process.</li>
+  <li>With plain react native, you cannot build iOS apps on a windows or linux machine. Native iOS apps can only be built on a macOS machine.</li>
+ <li>With Expo, you can devlop your app on windows or linux and run your app on a physical iPhone.</li>
 </ul>
 
-# Why React Native?
+# Expo
 <ul>
-  <li>iOS app requires Swift or Objective-C.
-Android apps requires Java or Kotlin.</li>
-<li>With approximately 31% on iOS and 68% on Android, you would typically need to develop two separate apps using different technologies.</li>
-<li>
-With React Native, you can create an app that works seamlessly on both platforms.</li>
-  <li>
-  React Native is high demand in the job market.</li>
-  <li>Rather than assembling separate teams of iOS and Android developers businesses can opt for a single team proficient in React Native, saving time and costs.</li>
-  <li>
-If the team is well-versed in React, their expertise can extend to web app development as well.</li>
-  <li>Companies which are using React Native are
-<ul>
-<li>Microsoft</li>
-  <li>Meta </li>
-  <li>Tesla</li>
-  <li>Pinterest</li>
-  <li>Discord</li>
-  </ul></li>
-</ul>
+  <li>Expo has evolved significantly over the years and now supports nearly all the features necessary for building mobile apps.</li>
+<li>In the event that you require access to native Android or iOS code, Expo allows you to eject your app and work with a plain React Native codebase.</li>
 
-# Prequisites to Learn React Native
-<ul>
-  <li>JavaScript</li>
-<li>React Fundamentals</li>
 </ul>
